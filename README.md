@@ -1,14 +1,27 @@
-# gloggers
 
-use only gmail 
-no other mail service will not work
+# Glogger
 
 
-# usage 
+## Note
 
-chmod +x glogger.py
-./glogger.py
+This only works on Gmail service
 
-or 
+## 🖥️ Installation
 
+```
+python -m pip install pynput 
+
+```
+## Usage/Examples
+
+```bash
+chmod +x glogger.py ./glogger.py
+ or 
 python glogger.py
+```
+
+
+## 👨‍💻Authors
+
+- [@gowtham207](https://www.github.com/gowtham207)
+
